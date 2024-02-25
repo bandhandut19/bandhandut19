@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack<br>🤝 I’m looking for help with better problem solving <br>💬 Ask me about react js for web development purposes<br>⚡ Fun fact - I don't believe in procrastination
+🔭 I’m currently working on MERN stack<br>🤝 I’m looking for help to do better in problem solving <br>💬 Ask me about react js for web development purposes<br>⚡ Fun fact - I don't believe in procrastination
 
 
 ## 🌐 Socials:
